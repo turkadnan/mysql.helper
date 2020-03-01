@@ -4,9 +4,10 @@ using System.Data;
 using System.Linq;
 using System.Reflection;
 
-namespace mysql.helper
+
+namespace MySQL.Helper
 {
-    public class Library
+    public class MySQLData
     {
         public static DataSet ExecuteDataset(string ConnectionString, CommandType commandType, string commandText, params MySqlParameter[] commandParameters)
         {
