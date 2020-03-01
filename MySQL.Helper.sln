@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQL.Helper", "MySQL.Helper\MySQL.Helper.csproj", "{5F667D37-49C9-4B35-8E21-C9C1E1838CD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQL.Helper", "MySQL.Helper.csproj", "{5F667D37-49C9-4B35-8E21-C9C1E1838CD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
